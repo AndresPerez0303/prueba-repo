@@ -1,0 +1,3 @@
+[submodule "prueba-subrepo"]
+	path = prueba-subrepo
+	url = git@github.com:AndresPerez0303/prueba-subrepo.git
